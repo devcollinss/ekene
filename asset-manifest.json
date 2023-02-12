@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ekene/static/css/main.56739b0a.css",
+    "main.js": "/ekene/static/js/main.030f077f.js",
+    "static/media/image bg3.jpg": "/ekene/static/media/image bg3.d2d7f38baf9ea64c5119.jpg",
+    "static/media/My project2.jpg": "/ekene/static/media/My project2.f69375d8f11b4f5f6a15.jpg",
+    "static/media/image bg4.jpg": "/ekene/static/media/image bg4.54323809b66271c50dd6.jpg",
+    "static/media/My project5.png": "/ekene/static/media/My project5.516120cb2112e0a8d595.png",
+    "static/media/My project6.png": "/ekene/static/media/My project6.b8d67e18cacbdd592251.png",
+    "static/media/My project4.png": "/ekene/static/media/My project4.0a985a0c144c3afa951d.png",
+    "static/media/developer.png": "/ekene/static/media/developer.00bcab35503da85548e9.png",
+    "static/media/My project.jpg": "/ekene/static/media/My project.4a3f36558588dfe9b6fb.jpg",
+    "static/media/My project7.png": "/ekene/static/media/My project7.040900df42da65e1f8af.png",
+    "static/media/My project3.jpg": "/ekene/static/media/My project3.7aa30b2766fcb05fff5a.jpg",
+    "static/media/developer2.jpg": "/ekene/static/media/developer2.0d839a5acbd31eddfd9b.jpg",
+    "index.html": "/ekene/index.html",
+    "main.56739b0a.css.map": "/ekene/static/css/main.56739b0a.css.map",
+    "main.030f077f.js.map": "/ekene/static/js/main.030f077f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56739b0a.css",
+    "static/js/main.030f077f.js"
+  ]
+}
